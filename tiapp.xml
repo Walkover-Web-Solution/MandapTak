@@ -54,6 +54,6 @@
         <target device="iphone">true</target>
         <target device="mobileweb">true</target>
     </deployment-targets>
-    <sdk-version>4.0.0.GA</sdk-version>
+    <sdk-version>4.1.0.GA</sdk-version>
     <property name="appc-app-id" type="string">55ac8d5e40e510432a5d01e8</property>
 </ti:app>
