@@ -1,1 +1,0 @@
-/Users/Imacshubhendra/Documents/Appcelerator_Studio_Workspace/Demo/Resources/ui/tablet/ApplicationWindow.js
