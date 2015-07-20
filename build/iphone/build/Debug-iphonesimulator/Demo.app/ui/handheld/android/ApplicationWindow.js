@@ -1,0 +1,1 @@
+/Users/Imacshubhendra/Documents/Appcelerator_Studio_Workspace/Demo/Resources/ui/handheld/android/ApplicationWindow.js
